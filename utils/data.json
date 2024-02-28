@@ -1,0 +1,98 @@
+  [  
+    {
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/bo0nCeGrclG0Y4",
+      "slug":"0001",
+      "name":"3/4 sit-up",
+      "category":"abs"
+      },{
+      "description":"waist",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/5b54MmC9R9koN5",
+      "slug":"0002",
+      "name":"45°  bend",
+      "category":"abs"
+      },{
+      "description":"waist",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/h6HWQYBG88viE0",
+      "slug":"0003",
+      "name":"air bike",
+      "category":"abs"
+      },{
+      "description":"upper legs",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/XZkzQvc5IanMDg",
+      "slug":"1512",
+      "name":"all fours squad stretch",
+      "category":"quads"
+      },{
+      "description":"waist",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/78FD10LAprcD29",
+      "slug":"0006",
+      "name":"alternate heel touchers",
+      "category":"abs"
+      },
+      {
+      "description":"back",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"cable",
+      "image":"https://api.exercisedb.io/image/GllicyvuCDPQZR",
+      "slug":"0007",
+      "name":"alternate lateral pulldown",
+      "category":"lats"
+      },
+      {
+      "description":"lower legs",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/63hzUUV0C3PmwK",
+      "slug":"1368",
+      "name":"ankle circles",
+      "category":"calves"
+      },
+      {
+      "description":"back",
+      "numReviews":10,
+      "rating":3,
+      "price":15,
+      "countInStock":15,
+      "isFeature":false,
+      "brand":"body weight",
+      "image":"https://api.exercisedb.io/image/4w7JTIEQeYtcIt",
+      "slug":"3293",
+      "name":"archer pull up",
+      "category":"lats"
+      },
+      {
+      "description":"chest",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/8Dxf6C1vkDQ9Te",
+      "slug":"3294",
+      "name":"archer push up",
+      "category":"pectorals"
+      },
+      {
+      "description":"waist",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/uy-nzMCljzgsrT",
+      "slug":"2355",
+      "name":"arm slingers hanging bent knee legs",
+      "category":"abs"
+      },
+      {
+      "description":"waist",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/QtdFTnz9eN6KYi",
+      "slug":"2333",
+      "name":"arm slingers hanging straight legs",
+      "category":"abs"
+      },
+      {
+      "description":"upper legs",
+      "numReviews":10,"rating":3,"price":15,"countInStock":15,"isFeature":false,"brand":"body weight",
+      "image":"https://api.exercisedb.io/image/pk0l2GWuui3fk5",
+      "slug":"3214",
+      "name":"arms apart circular toe touch (male)",
+      "category":"glutes"
+      }
+  ]
